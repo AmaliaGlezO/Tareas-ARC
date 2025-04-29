@@ -1,0 +1,12 @@
+<html><body><form name="CMCCWLANFORM" method="post" action="https://secure.etecsa.net:8443">  <input type="hidden" name="wlanuserip" value="10.224.215.254">  <input type="hidden" name="wlanacname" value="">  <input type="hidden" name="ssid" value="NAUTA_HOGAR">
+  <input type="hidden" name="portalurl" value="https://secure.etecsa.net:8443">  <input type="hidden" name="wlanparameter" value="70fdaa4f5990d215405f19c063e5b06728b46a38a7a27092"></form><script language='javascript'>    CMCCWLANFORM.submit();</script></body></html>
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<WISPAccessGatewayParam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.acmewisp.com/WISPAccessGatewayParam.xsd">
+<Proxy>
+<MessageType>110</MessageType>
+<NextURL>https://secure.etecsa.net:8443?wlanuserip=10.224.215.254&wlanacname=&ssid=NAUTA_HOGAR&wlanparameter=70fdaa4f5990d215405f19c063e5b06728b46a38a7a27092</NextURL>
+<ResponseCode>200</ResponseCode>
+</Proxy>
+</WISPAccessGatewayParam>
+-->
